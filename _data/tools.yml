@@ -283,6 +283,13 @@
   platforms: N/A
   note:
   type: DAST
+- title: SecPoint Penetrator
+  url: https://www.secpoint.com/
+  owner: SecPoint
+  license: Commercial
+  platforms: N/A
+  note:
+  type: DAST
 - title: Sentinel
   url: http://www.whitehatsec.com/home/services/services.html
   owner: WhiteHat Security
